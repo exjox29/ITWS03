@@ -59,11 +59,7 @@ $announcementList = [
 </head>
 <body>
     <h1>Announcementssssssss</h1>
-    <h1>Announcementssssssss</h1>
-    <h1>Announcementssssssss</h1>
-    <h1>Announcementssssssss</h1>
-    <h1>Announcementssssssss</h1>
-    <h1>Announcementssssssss</h1>
+    <h1>hello</h1>
     
 
     <?php
