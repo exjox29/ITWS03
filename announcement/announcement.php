@@ -58,7 +58,8 @@ $announcementList = [
     </style>
 </head>
 <body>
-    <h1>Announcements</h1>
+    <h1>Announcementssssssss</h1>
+    <h1>Announcementssssssss</h1>
 
     <?php
     foreach ($announcementList as $announcement) {
