@@ -64,8 +64,7 @@ $announcementList = [
     <h1>Announcementssssssss</h1>
     <h1>Announcementssssssss</h1>
     <h1>Announcementssssssss</h1>
-    <h1>hello</h1>
-
+    
 
     <?php
     foreach ($announcementList as $announcement) {
