@@ -60,6 +60,11 @@ $announcementList = [
 <body>
     <h1>Announcementssssssss</h1>
     <h1>Announcementssssssss</h1>
+    <h1>Announcementssssssss</h1>
+    <h1>Announcementssssssss</h1>
+    <h1>Announcementssssssss</h1>
+    <h1>Announcementssssssss</h1>
+    
 
     <?php
     foreach ($announcementList as $announcement) {
